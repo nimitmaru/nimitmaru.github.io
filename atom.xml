@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Nimit's Octo Blog]]></title>
   <link href="http://nimitmaru.github.io/atom.xml" rel="self"/>
   <link href="http://nimitmaru.github.io/"/>
-  <updated>2013-09-09T12:11:06-04:00</updated>
+  <updated>2013-09-11T10:27:45-04:00</updated>
   <id>http://nimitmaru.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Nimit Maru]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[hello world]]></title>
+    <link href="http://nimitmaru.github.io/blog/hello-world/"/>
+    <updated>2013-09-11T00:03:00-04:00</updated>
+    <id>http://nimitmaru.github.io/blog/hello-world</id>
+    <content type="html"><![CDATA[<p>Hi this is a hello world post!</p>
+]]></content>
+  </entry>
   
 </feed>
