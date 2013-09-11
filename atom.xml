@@ -4,7 +4,7 @@
   <title><![CDATA[Nimit's Octo Blog]]></title>
   <link href="http://nimitmaru.github.io/atom.xml" rel="self"/>
   <link href="http://nimitmaru.github.io/"/>
-  <updated>2013-09-11T11:21:41-04:00</updated>
+  <updated>2013-09-11T11:22:45-04:00</updated>
   <id>http://nimitmaru.github.io/</id>
   <author>
     <name><![CDATA[Nimit Maru]]></name>
@@ -20,10 +20,12 @@
     <id>http://nimitmaru.github.io/blog/second-post</id>
     <content type="html"><![CDATA[<p>Watching a pretty inspirational video about Steve Jobs.</p>
 
+<p>whats going on?</p>
+
 <iframe width="420" height="315" src="http://nimitmaru.github.io//www.youtube.com/embed/AJhHrwuC2sU" frameborder="0" allowfullscreen></iframe>
 
 
-<p>whats up?</p>
+
 ]]></content>
   </entry>
   
